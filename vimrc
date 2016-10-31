@@ -10,6 +10,7 @@ set wrap                " wrap text
 syntax on               " Turn on syntax highlighting
 set showmatch           " Show matching braces
 set linebreak           " Wrap at words
+colorscheme elflord     " Common dark colorscheme
 
 " For makefiles, require tabs and not spaces
 autocmd FileType make set noexpandtab
